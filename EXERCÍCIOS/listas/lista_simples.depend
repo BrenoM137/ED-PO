@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1648225620 source:d:\iftm\disciplinas\ed estruturas de dados\programas\lista_simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listasimples.h"
+
+1648210827 d:\iftm\disciplinas\ed estruturas de dados\programas\lista_simples\listasimples.h
+	<stdio.h>
+	<stdlib.h>
+
+1648646652 source:d:\iftm\disciplinas\ed estruturas de dados\programas\lista_simples\listasimples.c
+	"listasimples.h"
+
+1648663707 source:d:\iftm\disciplinas\ed estruturas de dados\programas\lista_simples\listadupla.c
+	"listadupla.h"
+
+1648663742 d:\iftm\disciplinas\ed estruturas de dados\programas\lista_simples\listadupla.h
+	<stdio.h>
+	<stdlib.h>
+

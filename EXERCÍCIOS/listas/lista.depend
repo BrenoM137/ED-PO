@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1651200505 source:d:\iftm\disciplinas\ed estruturas de dados\programas\listas\listasimples.c
+	"listasimples.h"
+	"listasimples.h"
+
+1651200554 d:\iftm\disciplinas\ed estruturas de dados\programas\listas\listasimples.h
+	<stdio.h>
+	<stdlib.h>
+
+1650458051 source:d:\iftm\disciplinas\ed estruturas de dados\programas\listas\listadupla.c
+	"listadupla.h"
+
+1650458051 d:\iftm\disciplinas\ed estruturas de dados\programas\listas\listadupla.h
+	<stdio.h>
+	<stdlib.h>
+
+1650372293 source:d:\iftm\disciplinas\ed estruturas de dados\programas\listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listasimples.h"
+
+1651200392 source:d:\iftm\disciplinas\ed estruturas de dados\programas\listas\listacircular.c
+	"listacircular.h"
+
+1651200419 d:\iftm\disciplinas\ed estruturas de dados\programas\listas\listacircular.h
+	<stdio.h>
+	<stdlib.h>
+	"listasimples.h"
+
+1651200392 source:d:\iftm\disciplinas\ed_estruturas_de_dados\programas\2022_1\listas_v8\listacircular.c
+	"listacircular.h"
+
+1651200419 d:\iftm\disciplinas\ed_estruturas_de_dados\programas\2022_1\listas_v8\listacircular.h
+	<stdio.h>
+	<stdlib.h>
+	"listasimples.h"
+
+1651200554 d:\iftm\disciplinas\ed_estruturas_de_dados\programas\2022_1\listas_v8\listasimples.h
+	<stdio.h>
+	<stdlib.h>
+
+1650458051 source:d:\iftm\disciplinas\ed_estruturas_de_dados\programas\2022_1\listas_v8\listadupla.c
+	"listadupla.h"
+
+1650458051 d:\iftm\disciplinas\ed_estruturas_de_dados\programas\2022_1\listas_v8\listadupla.h
+	<stdio.h>
+	<stdlib.h>
+
+1651200505 source:d:\iftm\disciplinas\ed_estruturas_de_dados\programas\2022_1\listas_v8\listasimples.c
+	"listasimples.h"
+	"listasimples.h"
+
+1651200622 source:d:\iftm\disciplinas\ed_estruturas_de_dados\programas\2022_1\listas_v8\main.c
+
+1651200392 source:d:\iftm\disciplinas\ed_estruturas_de_dados\programas\listas\listacircular.c
+	"listacircular.h"
+
+1651200419 d:\iftm\disciplinas\ed_estruturas_de_dados\programas\listas\listacircular.h
+	<stdio.h>
+	<stdlib.h>
+	"listasimples.h"
+
+1667999799 d:\iftm\disciplinas\ed_estruturas_de_dados\programas\listas\listasimples.h
+	<stdio.h>
+	<stdlib.h>
+
+1650458051 source:d:\iftm\disciplinas\ed_estruturas_de_dados\programas\listas\listadupla.c
+	"listadupla.h"
+
+1650458051 d:\iftm\disciplinas\ed_estruturas_de_dados\programas\listas\listadupla.h
+	<stdio.h>
+	<stdlib.h>
+
+1667999761 source:d:\iftm\disciplinas\ed_estruturas_de_dados\programas\listas\listasimples.c
+	"listasimples.h"
+	"listasimples.h"
+

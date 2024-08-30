@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1650458051 source:d:\iftm\disciplinas\ed_estruturas_de_dados\programas\fila_pilha\listadupla.c
+	"listadupla.h"
+
+1650458051 d:\iftm\disciplinas\ed_estruturas_de_dados\programas\fila_pilha\listadupla.h
+	<stdio.h>
+	<stdlib.h>
+
+1667999761 source:d:\iftm\disciplinas\ed_estruturas_de_dados\programas\fila_pilha\listasimples.c
+	"listasimples.h"
+	"listasimples.h"
+
+1667999799 d:\iftm\disciplinas\ed_estruturas_de_dados\programas\fila_pilha\listasimples.h
+	<stdio.h>
+	<stdlib.h>
+
+1667998881 source:d:\iftm\disciplinas\ed_estruturas_de_dados\programas\fila_pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+	"fila.h"
+
+1668000175 d:\iftm\disciplinas\ed_estruturas_de_dados\programas\fila_pilha\pilha.h
+	"listasimples.h"
+
+1667998881 d:\iftm\disciplinas\ed_estruturas_de_dados\programas\fila_pilha\fila.h
+	"listadupla.h"
+
+1668000139 source:d:\iftm\disciplinas\ed_estruturas_de_dados\programas\fila_pilha\fila.c
+	"fila.h"
+

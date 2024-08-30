@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"e:\\Workspace\\visualstudio\\ex_arvore_expressoes\\main.c","tests":[{"id":1671113668628,"input":"4 * a - ( 6 + b ) + 8 / ( 9 - 7 )","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Workspace\\visualstudio\\ex_arvore_expressoes\\main.c","group":"local","local":true}
